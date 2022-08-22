@@ -1,0 +1,5 @@
+transformers==4.21.1
+transformers[sentencepiece]
+torch>=1.12
+ekphrasis==0.5.4
+notebook
